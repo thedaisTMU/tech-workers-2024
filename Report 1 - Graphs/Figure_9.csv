@@ -1,0 +1,9 @@
+Ethnicity,Sector,Occupation,stat,Ethnicity_FR,Sector_FR,Occupation_FR
+Not a visible minority,Nonprofit,Tech Worker,61300,Pas une minorité visible,Organisme à but non lucratif,Travail technologique
+Visible minority,Nonprofit,Tech Worker,58200,Minorité visible,Organisme à but non lucratif,Travail technologique
+Not a visible minority,Other,Tech Worker,93200,Pas une minorité visible,Autre,Travail technologique
+Visible minority,Other,Tech Worker,79000,Minorité visible,Autre,Travail technologique
+Not a visible minority,Nonprofit,Other Work,37100,Pas une minorité visible,Organisme à but non lucratif,Travail non technologique
+Visible minority,Nonprofit,Other Work,32300,Minorité visible,Organisme à but non lucratif,Travail non technologique
+Not a visible minority,Other,Other Work,51100,Pas une minorité visible,Autre,Travail non technologique
+Visible minority,Other,Other Work,38800,Minorité visible,Autre,Travail non technologique

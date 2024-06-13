@@ -1,0 +1,11 @@
+Age,Sector,stat,Age_FR,Sector_FR
+15-24,Nonprofit,8,15-24,Organisme à but non lucratif
+25-34,Nonprofit,25,25-34,Organisme à but non lucratif
+35-44,Nonprofit,27,35-44,Organisme à but non lucratif
+45-54,Nonprofit,22,45-54,Organisme à but non lucratif
+55+,Nonprofit,17,55+,Organisme à but non lucratif
+15-24,Other,7,15-24,Autre
+25-34,Other,28,25-34,Autre
+35-44,Other,27,35-44,Autre
+45-54,Other,21,45-54,Autre
+55+,Other,16,55+,Autre

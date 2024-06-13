@@ -1,0 +1,5 @@
+Occupation,Sector,stat,Occupation_FR,Sector_FR
+Non-Tech Work,Other,95.2,Travail non technologique,Autre
+Non-Tech Work,Nonprofit,99.2,Travail non technologique,Organisme à but non lucratif
+Tech Work,Other,4.8,Travail technologique,Autre
+Tech Work,Nonprofit,0.8,Travail technologique,Organisme à but non lucratif
