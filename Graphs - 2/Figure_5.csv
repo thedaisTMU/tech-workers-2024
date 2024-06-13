@@ -1,0 +1,15 @@
+description,age,stat
+Non-Tech Workers,<25,15
+Non-Tech Workers,25-34,21
+Non-Tech Workers,35-44,20
+Non-Tech Workers,45-54,19
+Non-Tech Workers,55-64,18
+Non-Tech Workers,65-74,6
+Non-Tech Workers,75+,1
+Tech Workers,<25,7
+Tech Workers,25-34,28
+Tech Workers,35-44,27
+Tech Workers,45-54,21
+Tech Workers,55-64,13
+Tech Workers,65-74,3
+Tech Workers,75+,0

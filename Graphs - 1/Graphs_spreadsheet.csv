@@ -1,0 +1,8 @@
+﻿Figure_number,Approx_page,Figure_title,X_Axis,Y_Axis,Caption,Legends,X_Axis_Ticks,Y_Axis_Ticks,Other_Annocation,Notes,File_Name
+Figure 1,,Defining Tech Occupations,,,,,,,,,
+Figure 2,,Count of Tech Workers Over Time,Year,Number of Tech Workers,Source: 2021 Long Form Census,,,,,,
+Figure 3,,Most Common Tech Occupations,Occupation,Number of Tech Workers,Source: 2021 Long Form Census,,,,,,
+Figure 4,,Tech Participation by Province,Province,Tech Participation Rate,Source: 2021 Long Form Census,,,%,,,
+Figure 5,,Tech Participation by Census Metropolitan Area,Census Metropolitan Area,Tech Participation Rate,Source: 2021 Long Form Census,,,,,,
+Figure 6,,Tech and Non-Tech Salaries,CMA,Salary,Source: 2021 Long Form Census,,,$,,,
+Figure 7,,Comparison of Tech Occupation Pay - Metropolitan Areas,Metropolitan Area,Salary,"Source: 2021 Long Form Census, OEWS",,,$,,,

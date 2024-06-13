@@ -1,0 +1,642 @@
+﻿tech_occupations,area,pr_st,med_inc,total_emp,country
+1,San Jose-Sunnyvale-Santa Clara,CA,205665.7226,173090,US
+1,San Francisco-Oakland-Hayward,CA,201461.6862,187150,US
+1,Seattle-Tacoma-Bellevue,WA,189212.966,173240,US
+1,Wood Buffalo,Alta.,163114.6536,965,Canada
+1,Boston-Cambridge-Nashua,MA-NH,161232.0022,159160,US
+1,Washington-Arlington-Alexandria,DC-VA-MD-WV,158606.829,250940,US
+1,Santa Maria-Santa Barbara,CA,155530.5519,7210,US
+1,Boulder,CO,155330.0614,18460,US
+1,New York-Newark-Jersey City,NY-NJ-PA,152523.1935,359750,US
+1,California-Lexington Park,MD,151451.8221,7560,US
+1,Bridgeport-Stamford-Norwalk,CT,151251.3315,15830,US
+1,Durham-Chapel Hill,NC,151000.7183,21980,US
+1,Trenton,NJ,150674.9212,11650,US
+1,Baltimore-Columbia-Towson,MD,148594.8316,74660,US
+1,Kennewick-Richland,WA,146683.906,3100,US
+1,Northeast Virginia nonmetropolitan area,,142316.971,3530,US
+1,Denver-Aurora-Lakewood,CO,141013.7823,89680,US
+1,Portland-Vancouver-Hillsboro,OR-WA,140587.7399,61220,US
+1,Albuquerque,NM,139441.1845,13350,US
+1,Peoria,IL,136120.5596,5400,US
+1,Fort Collins,CO,133996.6127,7390,US
+1,Santa Rosa,CA,133426.4677,4530,US
+1,San Diego-Carlsbad,CA,133131.9972,76400,US
+1,Salinas,CA,128884.1034,1980,US
+1,Charlotte-Concord-Gastonia,NC-SC,128884.1034,57020,US
+1,Raleigh,NC,128765.0622,36090,US
+1,Phoenix-Mesa-Scottsdale,AZ,128702.4089,85170,US
+1,Charlottesville,VA,128646.0209,4210,US
+1,Hartford-West Hartford-East Hartford,CT,128639.7556,24050,US
+1,Minneapolis-St. Paul-Bloomington,MN-WI,128526.9796,89700,US
+1,Los Angeles-Long Beach-Anaheim,CA,128245.0398,217790,US
+1,Houston-The Woodlands-Sugar Land,TX,128219.9785,94600,US
+1,Atlantic City-Hammonton,NJ,128088.4065,2370,US
+1,Huntsville,AL,128050.8145,27980,US
+1,Atlanta-Sandy Springs-Roswell,GA,127787.6707,123670,US
+1,Oxnard-Thousand Oaks-Ventura,CA,127693.6907,10670,US
+1,Austin-Round Rock,TX,127624.7721,72120,US
+1,Bakersfield,CA,127605.9761,7410,US
+1,Dallas-Fort Worth-Arlington,TX,127317.7709,167460,US
+1,Olympia-Tumwater,WA,127104.7497,5310,US
+1,Richmond,VA,127035.8311,22440,US
+1,Sierra Vista-Douglas,AZ,126497.0127,1210,US
+1,Dover-Durham,NH-ME,126446.8901,1740,US
+1,Norwich-New London-Westerly,CT-RI,126434.3594,2640,US
+1,Sacramento--Roseville--Arden-Arcade,CA,126421.8287,33060,US
+1,Colorado Springs,CO,126384.2368,17300,US
+1,Vallejo-Fairfield,CA,126183.7462,1980,US
+1,Ithaca,NY,126114.8276,1240,US
+1,Decatur,AL,125933.133,1150,US
+1,Orlando-Kissimmee-Sanford,FL,125726.3771,39000,US
+1,Charleston-North Charleston,SC,125651.1932,10320,US
+1,Crestview-Fort Walton Beach-Destin,FL,125431.9066,5670,US
+1,Corvallis,OR,125419.3759,1550,US
+1,Palm Bay-Melbourne-Titusville,FL,125419.3759,17130,US
+1,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD,125074.7828,105230,US
+1,Worcester,MA-CT,125074.7828,8020,US
+1,Danbury,CT,125037.1908,1790,US
+1,Cedar Rapids,IA,125024.6602,6790,US
+1,Napa,CA,124924.4149,620,US
+1,Chicago-Naperville-Elgin,IL-IN-WI,124918.1495,144420,US
+1,Des Moines-West Des Moines,IA,124817.9043,16390,US
+1,Columbus,OH,124473.3111,42740,US
+1,Columbus,GA-AL,124348.0045,4140,US
+1,Idaho Falls,ID,124210.1673,1900,US
+1,Midland,MI,123834.2475,830,US
+1,Kansas City,MO-KS,123752.7982,37790,US
+1,Detroit-Warren-Dearborn,MI,123690.1449,98270,US
+1,Hagerstown-Martinsburg,MD-WV,123176.3878,2120,US
+1,Urban Honolulu,HI,122963.3666,11550,US
+1,Portsmouth,NH-ME,122957.1013,4220,US
+1,Waterloo-Cedar Falls,IA,122825.5293,2830,US
+1,Rome,GA,122512.2628,210,US
+1,Dayton,OH,122449.6095,17490,US
+1,Salt Lake City,UT,122430.8135,36370,US
+1,Virginia Beach-Norfolk-Newport News,VA-NC,122399.4869,27310,US
+1,Columbus,IN,122318.0376,1270,US
+1,Birmingham-Hoover,AL,122292.9763,15130,US
+1,Ann Arbor,MI,122286.7109,9960,US
+1,Owensboro,KY,122280.4456,290,US
+1,Albany-Schenectady-Troy,NY,122111.2817,17400,US
+1,New Bedford,MA,122079.9551,900,US
+1,Tampa-St. Petersburg-Clearwater,FL,122004.7711,45440,US
+1,Anchorage,AK,121904.5258,4190,US
+1,New Haven,CT,121691.5046,6570,US
+1,Winchester,VA-WV,121622.586,1070,US
+1,Tucson,AZ,121522.3407,15540,US
+1,Providence-Warwick,RI-MA,121472.218,18540,US
+1,Manchester,NH,121409.5647,3870,US
+1,State College,PA,121403.2994,1390,US
+1,Yuba City,CA,121346.9114,420,US
+1,Madison,WI,121284.2581,20890,US
+1,Cincinnati,OH-KY-IN,121177.7475,36160,US
+1,St. Louis,MO-IL,120914.6037,46600,US
+1,Wilmington,NC,120908.3383,3020,US
+1,Salem,OR,120444.7039,3300,US
+1,Portland-South Portland,ME,120388.316,5830,US
+1,Greensboro-High Point,NC,119717.9256,8830,US
+1,Santa Cruz-Watsonville,CA,119661.5377,2300,US
+1,Mount Vernon-Anacortes,WA,119298.1485,680,US
+1,Las Vegas-Henderson-Paradise,NV,119216.6992,15210,US
+1,Winston-Salem,NC,119216.6992,6270,US
+1,Springfield,MA-CT,119191.6379,6210,US
+1,Chambersburg-Waynesboro,PA,119179.1073,830,US
+1,Chattanooga,TN-GA,119116.454,5740,US
+1,Provo-Orem,UT,118928.4941,13840,US
+1,Pittsfield,MA,118809.4528,720,US
+1,Bremerton-Silverdale,WA,118771.8608,3040,US
+1,Beaumont-Port Arthur,TX,118458.5943,2360,US
+1,Savannah,GA,118126.5318,3080,US
+1,Leominster-Gardner,MA,117844.592,510,US
+1,Warner Robins,GA,117211.7936,3610,US
+1,Barnstable Town,MA,117042.6297,1330,US
+1,Wenatchee,WA,117011.3031,580,US
+1,Cleveland-Elyria,OH,116892.2618,35320,US
+1,Decatur,IL,116641.6486,600,US
+1,Yuma,AZ,116510.0767,960,US
+1,Las Cruces,NM,116259.4635,2050,US
+1,Connecticut nonmetropolitan area,,116171.7489,260,US
+1,Bellingham,WA,115946.197,1460,US
+1,Panama City,FL,115595.3385,2000,US
+1,Burlington,NC,115501.3586,1120,US
+1,Waco,TX,115300.868,2230,US
+1,Essa,Ont.,115199.7241,30,Canada
+1,West Central-Southwest New Hampshire nonmetropolitan area,,114856.0296,2640,US
+1,Sarnia,Ont.,114689.9908,1010,Canada
+1,Syracuse,NY,113941.2914,7510,US
+1,San Luis Obispo-Paso Robles-Arroyo Grande,CA,113665.6169,2340,US
+1,Baton Rouge,LA,113521.5143,9390,US
+1,Southern Vermont nonmetropolitan area,,113402.473,1560,US
+1,Hawaii / Kauai nonmetropolitan area,,113377.4117,980,US
+1,Midland,TX,113126.7985,1470,US
+1,Binghamton,NY,112813.532,3030,US
+1,Naples-Immokalee-Marco Island,FL,112757.144,1380,US
+1,Burlington-South Burlington,VT,112381.2242,4350,US
+1,Dubuque,IA,112331.1016,1650,US
+1,Fayetteville,NC,112293.5096,2310,US
+1,Monroe,MI,112093.019,700,US
+1,Fayetteville-Springdale-Rogers,AR-MO,111930.1205,5730,US
+1,Pittsburgh,PA,111284.7915,40790,US
+1,Kokomo,IN,111259.7301,350,US
+1,Prescott,AZ,111165.7502,460,US
+1,Mobile,AL,110727.1771,3880,US
+1,Fairbanks,AK,110714.6464,450,US
+1,Ogden-Clearfield,UT,110658.2585,10860,US
+1,Eastern Oregon nonmetropolitan area,,110476.5639,860,US
+1,Boise City,ID,110370.0533,10100,US
+1,Jackson,MI,110257.2773,1200,US
+1,Lake Charles,LA,110075.5828,1330,US
+1,Glens Falls,NY,110050.5215,450,US
+1,Carson City,NV,109937.7455,280,US
+1,Montgomery,AL,109937.7455,4620,US
+1,Southside Virginia nonmetropolitan area,,109749.7856,1010,US
+1,Elizabethtown-Fort Knox,KY,109543.0297,1370,US
+1,Riverside-San Bernardino-Ontario,CA,109167.1099,23770,US
+1,Northeast Oklahoma nonmetropolitan area,,109085.6606,2080,US
+1,Oklahoma City,OK,109079.3953,17850,US
+1,Ocean City,NJ,109066.8646,30,US
+1,Flagstaff,AZ,108985.4154,560,US
+1,Punta Gorda,FL,108791.1901,240,US
+1,San Antonio-New Braunfels,TX,108546.8423,28090,US
+1,Lawrence,KS,108509.2503,1160,US
+1,Longview,WA,108502.9849,410,US
+1,Twin Falls,ID,108064.4118,280,US
+1,East Stroudsburg,PA,107625.8387,710,US
+1,Southeast Minnesota nonmetropolitan area,,107607.0428,2920,US
+1,Waterbury,CT,107519.3281,750,US
+1,Kahului-Wailuku-Lahaina,HI,107500.5321,500,US
+1,Harrisburg-Carlisle,PA,107394.0215,11040,US
+1,Akron,OH,107375.2255,9790,US
+1,Pueblo,CO,107055.6937,700,US
+1,Brunswick,GA,106949.1831,210,US
+1,Battle Creek,MI,106848.9378,1130,US
+1,Yellowknife,N.W.T.,106024.5248,230,Canada
+1,Davenport-Moline-Rock Island,IA-IL,105758.7704,4770,US
+1,Rochester,NY,105689.8518,17030,US
+1,Saginaw,MI,105595.8718,1410,US
+1,Southwest Mississippi nonmetropolitan area,,105295.136,660,US
+1,Gulfport-Biloxi-Pascagoula,MS,105263.8093,3610,US
+1,Milwaukee-Waukesha-West Allis,WI,104944.2775,28510,US
+1,Ames,IA,104768.8483,1330,US
+1,Lafayette-West Lafayette,IN,104612.215,2070,US
+1,Augusta-Richmond County,GA-SC,103991.9473,4700,US
+1,Stockton-Lodi,CA,103496.9863,2360,US
+1,Greenville-Anderson-Mauldin,SC,103484.4556,9510,US
+1,Walla Walla,WA,103377.945,300,US
+1,Gettysburg,PA,103183.7198,210,US
+1,Southern Indiana nonmetropolitan area,,103039.6172,4030,US
+1,New Bern,NC,102964.4332,820,US
+1,Parkersburg-Vienna,WV,102763.9427,590,US
+1,Jacksonville,FL,102613.5747,20550,US
+1,Salisbury,MD-DE,102588.5134,1740,US
+1,Cumberland,MD-WV,102544.6561,470,US
+1,Coast Oregon nonmetropolitan area,,102300.3082,850,US
+1,Northwest Virginia nonmetropolitan area,,101686.3059,840,US
+1,Omaha-Council Bluffs,NE-IA,101673.7752,19800,US
+1,Allentown-Bethlehem-Easton,PA-NJ,101517.142,8380,US
+1,Indianapolis-Carmel-Anderson,IN,101404.3661,30640,US
+1,Greeley,CO,101316.6514,1650,US
+1,Kingston,NY,101216.4062,450,US
+1,Nashville-Davidson--Murfreesboro--Franklin,TN,101122.4262,32260,US
+1,Lansing-East Lansing,MI,100821.6904,7990,US
+1,Asheville,NC,100727.7104,3380,US
+1,Central New Hampshire nonmetropolitan area,,100696.3838,1500,US
+1,Duluth,MN-WI,100665.0571,2270,US
+1,Utica-Rome,NY,100614.9345,2570,US
+1,Sumter,SC,100433.2399,370,US
+1,Alaska nonmetropolitan area,,100389.3826,1540,US
+1,Buffalo-Cheektowaga-Niagara Falls,NY,100383.1173,12370,US
+1,Tulsa,OK,100332.9946,11880,US
+1,Springfield,IL,100270.3413,2270,US
+1,Redding,CA,100220.2187,700,US
+1,La Crosse-Onalaska,WI-MN,100213.9534,1950,US
+1,Champaign-Urbana,IL,100145.0347,2750,US
+1,Blacksburg-Christiansburg-Radford,VA,100101.1774,1440,US
+1,Miami-Fort Lauderdale-West Palm Beach,FL,100088.6468,59610,US
+1,Hinesville,GA,100069.8508,110,US
+1,Southwest Maine nonmetropolitan area,,100044.7894,2570,US
+1,Visalia-Porterville,CA,100000.9321,1240,US
+1,Bangor,ME,99975.87081,720,US
+1,Bismarck,ND,99969.60548,1200,US
+1,Topeka,KS,99944.54416,2960,US
+1,Modesto,CA,99932.0135,1990,US
+1,Reno,NV,99869.3602,5330,US
+1,Greenville,NC,99737.78827,900,US
+1,Spokane-Spokane Valley,WA,99718.99228,5360,US
+1,Northern Vermont nonmetropolitan area,,99700.19629,1310,US
+1,Appleton,WI,99693.93096,2920,US
+1,Coastal Plains Region of Texas nonmetropolitan area,,99693.93096,1810,US
+1,Rochester,MN,99693.93096,1770,US
+1,Rockford,IL,99668.86964,2210,US
+1,Pensacola-Ferry Pass-Brent,FL,99662.60431,3540,US
+1,Tuscaloosa,AL,99656.33898,1030,US
+1,El Centro,CA,99599.95101,290,US
+1,Medford,OR,99493.4404,1300,US
+1,Watertown-Fort Drum,NY,99468.37908,300,US
+1,York-Hanover,PA,99449.58309,4100,US
+1,Wichita,KS,99405.72578,8380,US
+1,Eastern New Mexico nonmetropolitan area,,99361.86847,1720,US
+1,Bend-Redmond,OR,99355.60314,1580,US
+1,Coeur d'Alene,ID,99318.01116,780,US
+1,North Port-Sarasota-Bradenton,FL,99305.4805,5150,US
+1,Oshkosh-Neenah,WI,99249.09253,2460,US
+1,Killeen-Temple,TX,99217.76588,2660,US
+1,Vineland-Bridgeton,NJ,99104.98994,370,US
+1,Spartanburg,SC,99023.54065,2800,US
+1,Columbia,SC,98992.214,8520,US
+1,Southwest Virginia nonmetropolitan area,,98985.94867,1390,US
+1,Pembroke,Ont.,98888.25875,35,Canada
+1,Fresno,CA,98797.98877,4770,US
+1,Knoxville,TN,98685.21283,10980,US
+1,Western Washington nonmetropolitan area,,98666.41684,1260,US
+1,Eastern Washington nonmetropolitan area,,98653.88618,1970,US
+1,Reading,PA,98572.43689,3450,US
+1,Houma-Thibodaux,LA,98553.6409,710,US
+1,Central Oregon nonmetropolitan area,,98541.11024,750,US
+1,Billings,MT,98528.57958,1440,US
+1,Nevada nonmetropolitan area,,98503.51826,1590,US
+1,Fargo,ND-MN,98490.9876,3580,US
+1,South Georgia nonmetropolitan area,,98465.92628,1600,US
+1,North Texas Region of Texas nonmetropolitan area,,98434.59963,2660,US
+1,Eastern Sierra-Mother Lode Region of California nonmetropolitan area,,98397.00765,410,US
+1,Squamish,B.C.,98378.52545,320,Canada
+1,Amarillo,TX,98309.29303,1580,US
+1,Southeast Coastal North Carolina nonmetropolitan area,,98296.76237,2720,US
+1,Tyler,TX,98252.90506,1230,US
+1,Logan,UT-ID,98234.10907,2490,US
+1,Staunton-Waynesboro,VA,98202.78242,720,US
+1,North Valley-Northern Mountains Region of California nonmetropolitan area,,98115.0678,840,US
+1,Louisville/Jefferson County,KY-IN,98108.80247,15630,US
+1,Bay City,MI,98077.47582,300,US
+1,Eugene,OR,98008.55719,2950,US
+1,Auburn-Opelika,AL,98002.29186,700,US
+1,Sheboygan,WI,97920.84257,1230,US
+1,Grand Junction,CO,97851.92394,630,US
+1,Green Bay,WI,97851.92394,4240,US
+1,Roanoke,VA,97845.65861,2890,US
+1,Goldsboro,NC,97795.53597,190,US
+1,The Villages,FL,97770.47465,150,US
+1,Flint,MI,97739.148,1870,US
+1,Hot Springs,AR,97739.148,150,US
+1,Sioux City,IA-NE-SD,97720.35201,1090,US
+1,Williamsport,PA,97714.08668,520,US
+1,Rocky Mount,NC,97632.63739,570,US
+1,Northwest Illinois nonmetropolitan area,,97595.04541,1400,US
+1,Racine,WI,97569.98409,1560,US
+1,Lafayette,LA,97526.12678,2460,US
+1,Jacksonville,NC,97519.86145,410,US
+1,South Central Tennessee nonmetropolitan area,,97501.06546,1840,US
+1,Grand Rapids-Wyoming,MI,97457.20815,14610,US
+1,Iowa City,IA,97413.35084,2190,US
+1,Muncie,IN,97407.08551,690,US
+1,Little Rock-North Little Rock-Conway,AR,97375.75886,8050,US
+1,Memphis,TN-MS-AR,97350.69754,12490,US
+1,Lakeland-Winter Haven,FL,97344.43221,3500,US
+1,Fort Wayne,IN,97300.5749,5340,US
+1,Mankato-North Mankato,MN,97300.5749,880,US
+1,Victoria,TX,97288.04424,200,US
+1,North Coast Region of California nonmetropolitan area,,97281.77891,720,US
+1,Elkhart-Goshen,IN,97262.98292,1620,US
+1,Elmira,NY,97262.98292,300,US
+1,Arizona nonmetropolitan area,,97225.39094,1050,US
+1,Southwest Montana nonmetropolitan area,,97225.39094,3810,US
+1,Lewiston-Auburn,ME,97200.32962,460,US
+1,Central East New York nonmetropolitan area,,97187.79896,2380,US
+1,Lima,OH,97187.79896,510,US
+1,Janesville-Beloit,WI,97175.2683,1360,US
+1,Lincoln,NE,97156.47231,5720,US
+1,New Orleans-Metairie,LA,97100.08434,9580,US
+1,Cape Coral-Fort Myers,FL,97068.75769,4020,US
+1,Gainesville,GA,97068.75769,950,US
+1,East North Dakota nonmetropolitan area,,97049.9617,570,US
+1,Southeast Alabama nonmetropolitan area,,97043.69637,1000,US
+1,Northeast Coastal North Carolina nonmetropolitan area,,97024.90038,490,US
+1,Hickory-Lenoir-Morganton,NC,97018.63505,1720,US
+1,Dalton,GA,97006.10439,1260,US
+1,Southwest Minnesota nonmetropolitan area,,97006.10439,1330,US
+1,Western Wyoming nonmetropolitan area,,96981.04307,1020,US
+1,Southwest New York nonmetropolitan area,,96962.24708,3750,US
+1,South Arkansas nonmetropolitan area,,96887.06312,690,US
+1,St. George,UT,96887.06312,1140,US
+1,Alexandria,LA,96830.67515,470,US
+1,Lancaster,PA,96799.3485,4410,US
+1,Albany,GA,96768.02185,520,US
+1,Northeast Maine nonmetropolitan area,,96724.16454,450,US
+1,Lexington-Fayette,KY,96686.57256,6360,US
+1,Scranton--Wilkes-Barre--Hazleton,PA,96636.44992,4110,US
+1,Southwest Colorado nonmetropolitan area,,96630.18459,870,US
+1,Northern New Hampshire nonmetropolitan area,,96623.91926,150,US
+1,Longview,TX,96605.12327,1080,US
+1,Morgantown,WV,96592.59261,1290,US
+1,Lynchburg,VA,96548.7353,2250,US
+1,Toledo,OH,96517.40865,5630,US
+1,Danville,IL,96442.22469,190,US
+1,St. Joseph,MO-KS,96398.36738,390,US
+1,Albany,OR,96354.51007,430,US
+1,Weirton-Steubenville,WV-OH,96354.51007,210,US
+1,Harrisonburg,VA,96254.26479,540,US
+1,Balance of Lower Peninsula of Michigan nonmetropolitan area,,96235.4688,4710,US
+1,Yakima,WA,96210.40748,580,US
+1,Lawton,OK,96160.28484,490,US
+1,Odessa,TX,96154.01951,330,US
+1,South Florida nonmetropolitan area,,96147.75418,510,US
+1,Massachusetts nonmetropolitan area,,96116.42753,380,US
+1,West North Dakota nonmetropolitan area,,96078.83555,1000,US
+1,Port St. Lucie,FL,96072.57022,1860,US
+1,Southeast Iowa nonmetropolitan area,,96034.97824,4000,US
+1,Manhattan,KS,95953.52895,630,US
+1,Bloomington,IL,95884.61032,1550,US
+1,Trail,B.C.,95829.85899,35,Canada
+1,North Northeastern Ohio nonmetropolitan area (noncontiguous),,95746.77306,4170,US
+1,Northern West Virginia nonmetropolitan area,,95734.2424,1490,US
+1,Eau Claire,WI,95721.71174,1860,US
+1,Wausau,WI,95696.65042,1510,US
+1,Kalamazoo-Portage,MI,95621.46646,3240,US
+1,South Central Wisconsin nonmetropolitan area,,95571.34382,3320,US
+1,Lebanon,PA,95558.81316,460,US
+1,Macon,GA,95533.75184,1370,US
+1,Middle Georgia nonmetropolitan area,,95533.75184,1430,US
+1,South Nebraska nonmetropolitan area,,95533.75184,1390,US
+1,Kingsport-Bristol-Bristol,TN-VA,95527.48651,2300,US
+1,Sherman-Denison,TX,95289.40397,490,US
+1,Southern Pennsylvania nonmetropolitan area,,95258.07732,1760,US
+1,Northern New Mexico nonmetropolitan area,,95226.75067,1180,US
+1,West Montana nonmetropolitan area,,95214.22001,1130,US
+1,Jackson,MS,95195.42402,4070,US
+1,Texarkana,TX-AR,95126.50539,360,US
+1,Corpus Christi,TX,95120.24006,2670,US
+1,Athens-Clarke County,GA,95082.64808,1190,US
+1,Southern West Virginia nonmetropolitan area,,95032.52544,450,US
+1,Northwest Minnesota nonmetropolitan area,,95001.19879,2630,US
+1,Northeastern Wisconsin nonmetropolitan area,,94888.42285,3690,US
+1,Chico,CA,94857.0962,910,US
+1,Calgary,Alta.,94810.39241,42410,Canada
+1,Northern Indiana nonmetropolitan area,,94806.97356,2470,US
+1,West Northwestern Ohio nonmetropolitan area,,94800.70823,4600,US
+1,Hilton Head Island-Bluffton-Beaufort,SC,94781.91224,600,US
+1,St. Cloud,MN,94606.483,1370,US
+1,Northwest Lower Peninsula of Michigan nonmetropolitan area,,94487.44173,1380,US
+1,Upper Savannah South Carolina nonmetropolitan area,,94362.13513,1080,US
+1,Centre Wellington,Ont.,94300.65911,245,Canada
+1,Casper,WY,94280.68584,320,US
+1,Enid,OK,94274.42051,80,US
+1,South Bend-Mishawaka,IN-MI,94111.52193,2350,US
+1,Northwest Oklahoma nonmetropolitan area,,94098.99127,1490,US
+1,Gainesville,FL,94048.86863,2300,US
+1,Southern Ohio nonmetropolitan area,,94048.86863,1850,US
+1,Muskegon,MI,94023.80731,610,US
+1,Northeast Lower Peninsula of Michigan nonmetropolitan area,,93998.74599,570,US
+1,Fond du Lac,WI,93986.21533,720,US
+1,Evansville,IN-KY,93954.88868,2960,US
+1,Hanford-Corcoran,CA,93954.88868,40,US
+1,Northern Pennsylvania nonmetropolitan area,,93954.88868,1860,US
+1,Maryland nonmetropolitan area,,93911.03137,660,US
+1,Eastern Ohio nonmetropolitan area,,93779.45944,1340,US
+1,Northwest Alabama nonmetropolitan area,,93773.19411,310,US
+1,Canton-Massillon,OH,93766.92878,2510,US
+1,Niles-Benton Harbor,MI,93679.21416,850,US
+1,Valdosta,GA,93654.15284,540,US
+1,Merced,CA,93585.23421,450,US
+1,Columbia,MO,93572.70355,1920,US
+1,Dover,DE,93553.90756,940,US
+1,Northwestern Idaho nonmetropolitan area,,93516.31558,780,US
+1,Grand Island,NE,93472.45827,410,US
+1,Upper Peninsula of Michigan nonmetropolitan area,,93434.86629,1280,US
+1,Western Pennsylvania nonmetropolitan area,,93340.88634,1570,US
+1,Piedmont North Carolina nonmetropolitan area,,93027.61984,3790,US
+1,Central Louisiana nonmetropolitan area,,93002.55852,580,US
+1,Santa Fe,NM,92914.8439,1110,US
+1,Florence,SC,92689.29202,1010,US
+1,Great Falls,MT,92576.51608,220,US
+1,Erie,PA,92413.6175,1850,US
+1,Western Wisconsin nonmetropolitan area,,92325.90288,1860,US
+1,Bloomsburg-Berwick,PA,92238.18826,540,US
+1,Abilene,TX,92062.75902,760,US
+1,Wichita Falls,TX,91968.77907,510,US
+1,Huntington-Ashland,WV-KY-OH,91711.90054,1370,US
+1,Eastern Wyoming nonmetropolitan area,,91674.30856,860,US
+1,Clarksville,TN-KY,91267.06211,1290,US
+1,Ottawa - Gatineau,Ont./Que.,91242.25936,68265,Canada
+1,Youngstown-Warren-Boardman,OH-PA,91116.69419,2380,US
+1,Red Deer,Alta.,90732.52607,615,Canada
+1,Hill Country Region of Texas nonmetropolitan area,,90571.61048,1980,US
+1,Grants Pass,OR,90095.4454,100,US
+1,Northeast Alabama nonmetropolitan area,,89920.01616,1440,US
+1,Joplin,MO,89719.5256,830,US
+1,Collingwood,Ont.,89713.05948,40,Canada
+1,Edmonton,Alta.,89713.05948,24705,Canada
+1,Parksville,B.C.,89713.05948,45,Canada
+1,Regina,Sask.,89713.05948,5195,Canada
+1,Johnstown,PA,89581.68834,550,US
+1,Northwest Mississippi nonmetropolitan area,,89556.62702,460,US
+1,West Central Illinois nonmetropolitan area,,89318.54448,1680,US
+1,Pocatello,ID,89243.36052,270,US
+1,Vancouver,B.C.,89203.32619,77305,Canada
+1,Kansas nonmetropolitan area,,89074.19661,5080,US
+1,Anniston-Oxford-Jacksonville,AL,89024.07397,370,US
+1,Courtenay,B.C.,88693.5929,415,Canada
+1,Grande Prairie,Alta.,88693.5929,300,Canada
+1,Rapid City,SD,88648.15417,1210,US
+1,West Texas Region of Texas nonmetropolitan area,,88591.7662,1590,US
+1,Shreveport-Bossier City,LA,88529.1129,2140,US
+1,Bloomington,IN,88510.31691,2200,US
+1,Northwest Colorado nonmetropolitan area,,88460.19427,1240,US
+1,Oshawa,Ont.,88183.8596,10320,Canada
+1,Altoona,PA,88046.68249,710,US
+1,Sioux Falls,SD,87814.86528,4870,US
+1,Quesnel,B.C.,87674.12631,35,Canada
+1,Grand Forks,ND-MN,87470.27213,600,US
+1,Lloydminster,Alta./Sask.,87419.25966,130,Canada
+1,Windsor,Ont.,87164.39302,7410,Canada
+1,Daphne-Fairhope-Foley,AL,87075.55634,560,US
+1,Mansfield,OH,86912.65776,600,US
+1,Guam,,86850.00446,190,US
+1,Southeast Missouri nonmetropolitan area,,86787.35116,1050,US
+1,Hamilton,Ont.,86654.65973,16720,Canada
+1,Sainte-Marie,Que.,86654.65973,30,Canada
+1,Wheeling,WV-OH,86636.98324,430,US
+1,Northeast Iowa nonmetropolitan area,,86442.75801,940,US
+1,Northwest Iowa nonmetropolitan area,,86405.16603,1300,US
+1,Eastern Utah nonmetropolitan area,,86355.04339,960,US
+1,Central Kentucky nonmetropolitan area,,86304.92075,2560,US
+1,Springfield,OH,86173.34882,390,US
+1,Vernon,B.C.,86144.92643,390,Canada
+1,Capital/Northern New York nonmetropolitan area,,85979.12359,1380,US
+1,Monroe,LA,85972.85826,900,US
+1,Southwest Alabama nonmetropolitan area,,85941.53161,410,US
+1,Terre Haute,IN,85878.87831,630,US
+1,Morristown,TN,85703.44907,250,US
+1,Toronto,Ont.,85635.19314,238880,Canada
+1,Val-d'Or,Que.,85635.19314,240,Canada
+1,Michigan City-La Porte,IN,85277.40663,270,US
+1,El Paso,TX,85145.8347,4750,US
+1,Kitchener - Cambridge - Waterloo,Ont.,85125.45985,20660,Canada
+1,Petawawa,Ont.,85125.45985,85,Canada
+1,Deltona-Daytona Beach-Ormond Beach,FL,85070.65074,2990,US
+1,Mountain North Carolina nonmetropolitan area,,84757.38424,1260,US
+1,Timmins,Ont.,84615.72656,115,Canada
+1,Wasaga Beach,Ont.,84615.72656,50,Canada
+1,Homosassa Springs,FL,84563.15901,90,US
+1,Okotoks,Alta.,84360.85991,180,Canada
+1,Florence-Muscle Shoals,AL,84318.81114,320,US
+1,Cheyenne,WY,84237.36185,910,US
+1,Jefferson City,MO,84118.32058,1750,US
+1,North Central Tennessee nonmetropolitan area,,83911.56469,1200,US
+1,Bowling Green,KY,83748.66611,590,US
+1,West Kentucky nonmetropolitan area,,83742.40078,1390,US
+1,Greater Sudbury,Ont.,83596.25997,2260,Canada
+1,Whitehorse,Y.T.,83596.25997,260,Canada
+1,Brownsville-Harlingen,TX,83379.01164,1010,US
+1,Laredo,TX,83097.07179,410,US
+1,St. John's,N.L.,83086.52668,4210,Canada
+1,Kankakee,IL,83078.2758,340,US
+1,Johnson City,TN,82890.3159,1370,US
+1,Hattiesburg,MS,82645.96803,350,US
+1,Springfield,MO,82420.41615,4640,US
+1,Lower Savannah South Carolina nonmetropolitan area,,82251.25224,340,US
+1,Northeast Mississippi nonmetropolitan area,,82244.98691,2460,US
+1,Southwest Iowa nonmetropolitan area,,82213.66026,600,US
+1,Victoria,B.C.,82067.06009,10125,Canada
+1,Central Indiana nonmetropolitan area,,81831.47513,1650,US
+1,Thunder Bay,Ont.,81812.19345,1020,Canada
+1,East Central Illinois nonmetropolitan area,,81768.82183,1510,US
+1,Saskatoon,Sask.,81302.46015,4910,Canada
+1,North Georgia nonmetropolitan area,,81286.39142,2260,US
+1,College Station-Bryan,TX,81142.28883,3140,US
+1,Lake Havasu City-Kingman,AZ,80810.22634,230,US
+1,Central Missouri nonmetropolitan area,,80735.04238,1330,US
+1,Brantford,Ont.,80537.86022,1345,Canada
+1,Canmore,Alta.,80537.86022,40,Canada
+1,Montréal,Que.,80282.99357,136820,Canada
+1,Kamloops,B.C.,80028.12692,860,Canada
+1,Rimouski,Que.,80028.12692,700,Canada
+1,Saint John,N.B.,79518.39363,2390,Canada
+1,East-Central Montana nonmetropolitan area,,78855.44338,770,US
+1,Missoula,MT,78398.07429,1410,US
+1,Eastern and Southern Colorado nonmetropolitan area,,78310.35967,410,US
+1,Central Utah nonmetropolitan area,,78304.09434,460,US
+1,Kelowna,B.C.,78244.0604,3120,Canada
+1,Lubbock,TX,78153.72642,2120,US
+1,South Illinois nonmetropolitan area,,78147.46109,770,US
+1,Southeast-Central Idaho nonmetropolitan area,,77884.31723,1090,US
+1,Southwest Missouri nonmetropolitan area,,77614.90804,400,US
+1,Charleston,WV,77596.11205,2020,US
+1,Hammond,LA,77589.84672,220,US
+1,Big Thicket Region of Texas nonmetropolitan area,,77358.02951,930,US
+1,Madera,CA,77358.02951,290,US
+1,Northwestern Wisconsin nonmetropolitan area,,77176.33494,350,US
+1,Northeast Minnesota nonmetropolitan area,,77101.15098,230,US
+1,Northeast Nebraska nonmetropolitan area,,77051.02834,800,US
+1,Aguadilla-Isabela,PR,76994.64037,720,US
+1,McAllen-Edinburg-Mission,TX,76957.04839,2150,US
+1,East South Dakota nonmetropolitan area,,76894.39509,1870,US
+1,Pine Bluff,AR,76850.53778,30,US
+1,Sebastian-Vero Beach,FL,76831.74179,330,US
+1,Southwest Louisiana nonmetropolitan area,,76825.47646,330,US
+1,Southeast Oklahoma nonmetropolitan area,,76769.08849,1380,US
+1,Tallahassee,FL,76762.82316,5170,US
+1,Southeast Mississippi nonmetropolitan area,,76656.31255,1110,US
+1,Dothan,AL,76599.92458,380,US
+1,Northeast South Carolina nonmetropolitan area,,76593.65925,850,US
+1,Baie-Comeau,Que.,76459.99388,120,Canada
+1,Guelph,Ont.,76459.99388,3585,Canada
+1,Woodstock,Ont.,76459.99388,345,Canada
+1,Myrtle Beach-Conway-North Myrtle Beach,SC-NC,76349.31138,1420,US
+1,Fort Smith,AR-OK,76261.59676,950,US
+1,North Bay,Ont.,76205.12723,550,Canada
+1,West South Dakota nonmetropolitan area,,76117.49417,810,US
+1,Chatham-Kent,Ont.,75950.26058,605,Canada
+1,Border Region of Texas nonmetropolitan area,,75917.00361,280,US
+1,North Florida nonmetropolitan area,,75891.94229,1110,US
+1,South Central Kentucky nonmetropolitan area,,75891.94229,1860,US
+1,Jackson,TN,75810.493,640,US
+1,Barrie,Ont.,75695.39394,3385,Canada
+1,Winnipeg,Man.,75695.39394,15320,Canada
+1,East Georgia nonmetropolitan area,,75559.8798,680,US
+1,Bathurst,N.B.,75440.52729,40,Canada
+1,Jonesboro,AR,74970.93878,600,US
+1,Ocala,FL,74588.75365,950,US
+1,Gadsden,AL,74569.95766,40,US
+1,London,Ont.,74421.06071,10025,Canada
+1,Beckley,WV,74319.34446,110,US
+1,North Missouri nonmetropolitan area,,73993.5473,790,US
+1,Lethbridge,Alta.,73911.32741,720,Canada
+1,Salmon Arm,B.C.,73401.59412,30,Canada
+1,Cape Girardeau,MO-IL,73160.25841,280,US
+1,Halifax,N.S.,72891.86083,11855,Canada
+1,Prince Albert,Sask.,72891.86083,55,Canada
+1,Sept-Îles,Que.,72636.99418,130,Canada
+1,St. Catharines - Niagara,Ont.,72636.99418,4310,Canada
+1,Québec,Que.,72636.99418,27705,Canada
+1,Sault Ste. Marie,Ont.,72636.99418,625,Canada
+1,San Angelo,TX,72565.05206,500,US
+1,Kawartha Lakes,Ont.,72382.12754,475,Canada
+1,Carbondale-Marion,IL,72113.9483,510,US
+1,Sebring,FL,72088.88698,30,US
+1,Granby,Que.,71617.5276,1225,Canada
+1,East Kentucky nonmetropolitan area,,71424.762,650,US
+1,Nanaimo,B.C.,71362.66095,980,Canada
+1,Fredericton,N.B.,71362.66095,3130,Canada
+1,Stratford,Ont.,71362.66095,195,Canada
+1,Abbotsford - Mission,B.C.,71107.7943,1390,Canada
+1,Kingston,Ont.,71107.7943,2685,Canada
+1,Northeast Louisiana nonmetropolitan area,,70365.92123,260,US
+1,Medicine Hat,Alta.,70088.32772,280,Canada
+1,Northwest Nebraska nonmetropolitan area,,69883.49082,340,US
+1,Belleville - Quinte West,Ont.,69578.59443,860,Canada
+1,Moncton,N.B.,69068.86113,2870,Canada
+1,Chilliwack,B.C.,68813.99449,550,Canada
+1,Peterborough,Ont.,68813.99449,1230,Canada
+1,Lewiston,ID-WA,68787.05807,170,US
+1,Orillia,Ont.,68712.04783,105,Canada
+1,West Tennessee nonmetropolitan area,,68386.07695,1080,US
+1,East Tennessee nonmetropolitan area,,68072.81045,1300,US
+1,West Arkansas nonmetropolitan area,,67383.62415,420,US
+1,Moose Jaw,Sask.,67284.79461,40,Canada
+1,New Glasgow,N.S.,67284.79461,75,Canada
+1,Cleveland,TN,66819.74445,430,US
+1,Nelson,B.C.,66775.06132,35,Canada
+1,Summerside,P.E.I.,66673.11466,80,Canada
+1,Saint-Hyacinthe,Que.,66316.30135,430,Canada
+1,Corner Brook,N.L.,66265.32803,40,Canada
+1,Southwest Oklahoma nonmetropolitan area,,66212.00744,350,US
+1,Prince George,B.C.,66163.38137,585,Canada
+1,Norfolk,Ont.,65908.51472,150,Canada
+1,Cape Breton,N.S.,65857.54139,295,Canada
+1,Charlottetown,P.E.I.,65755.59473,1520,Canada
+1,Yorkton,Sask.,65755.59473,40,Canada
+1,Sorel-Tracy,Que.,65653.64807,205,Canada
+1,Campbell River,B.C.,65245.86144,80,Canada
+1,Trois-Rivières,Que.,64379.31484,2005,Canada
+1,Rivière-du-Loup,Que.,63614.7149,265,Canada
+1,East Arkansas nonmetropolitan area,,61419.02999,500,US
+1,Rouyn-Noranda,Que.,61269.94176,185,Canada
+1,Brandon,Man.,61117.02177,225,Canada
+1,Virgin Islands,,60297.53592,210,US
+1,Drummondville,Que.,60148.52852,1045,Canada
+1,Miramichi,N.B.,59944.6352,35,Canada
+1,Sherbrooke,Que.,59944.6352,4525,Canada
+1,Farmington,NM,59257.49114,160,US
+1,San Juan-Carolina-Caguas,PR,59238.69515,11740,US
+1,North Arkansas nonmetropolitan area,,58468.05956,890,US
+1,Mayaguez,PR,58405.40626,30,US
+1,Victoriaville,Que.,58364.46199,495,Canada
+1,Saguenay,Que.,56886.23544,2335,Canada
+1,Truro,N.S.,56070.66218,160,Canada
+1,Saint-Georges,Que.,53827.83569,320,Canada
+1,Puerto Rico nonmetropolitan area,,53443.2649,50,US
+1,Duncan,B.C.,53420.04905,90,Canada
+1,Thetford Mines,Que.,53012.26242,55,Canada
+1,Alma,Que.,52196.68915,65,Canada
+1,Edmundston,N.B.,51381.11588,55,Canada
+1,Salaberry-de-Valleyfield,Que.,51381.11588,135,Canada
+1,Cranbrook,B.C.,50565.54262,40,Canada
+1,Penticton,B.C.,50157.75598,75,Canada
+1,Shawinigan,Que.,49546.07603,445,Canada
+1,Cornwall,Ont.,48526.60945,175,Canada
+1,Joliette,Que.,48016.87615,200,Canada
+1,Guayama,PR,45661.72504,60,US
+1,Matane,Que.,42002.0233,35,Canada
+1,Ponce,PR,35806.36095,310,US
+1,Arecibo,PR,34421.72302,80,US
